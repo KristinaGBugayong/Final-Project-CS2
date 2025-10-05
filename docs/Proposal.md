@@ -1,23 +1,21 @@
 📌 Project Proposal (Draft)
 
-📝 Project Title
-
-Enter your initial project title here.
+Climate Change Calculator  
 
 🔍 Problem Statement
 
-What real-world problem does your project want to solve?
+The Philippines experiences a plethora of typhoons per year. Weather events are becoming more extreme, temperature deviations may affect food supply, among other issues. Additionally, a lot of Philippines cities utilize outdated flood data, implying most infrastructure today are no longer built for the changes the country has experienced today.
 
-Describe the issue or need you identified.
-Explain why this problem is relevant and worth solving.
-Relate the problem to the dataset you selected (e.g., hospital, ecommerce, students, etc.).
+This program is a simple yet possibly significant part of weather analysis and predictions, and climate monitoring. It can aid in real world aspects such as: Number one, Agriculture and Farming through indicating whether conditions for crops are suitable enough. Number two, Flood and Disaster readiness through alerting citizens of possible rainfall events. Lastly, number three, Urban Planning to inform infrastructure design and energy systems.
+
+The Philippines is eerily vulnerable to climate change, experiencing 20 or so typhoons per year. This can result in loss of livelihoods, loss of homes, death, a lack of food, and other issues. If this problem is not solved, it can result in extreme poverty of both the people and the government.  
+
 🎯 Project Objectives
 
-Write at least 2–3 clear objectives your project aims to achieve. Example:
-
-Objective 1: To analyze and summarize data from the chosen JSON dataset.
-Objective 2: To help users gain meaningful insights (e.g., averages, trends, patterns).
-Objective 3: To practice JSON handling and Python programming concepts.
+1. Find: Find out the day with the highest recorded rainfall
+2. Infer: Infer the average daily temperature.
+3. eXamine: eXamine data, and aid in interpretation and decision making.
+   
 ⚙️ Planned Features
 
 Your program must have at least 5 features (minimum).
