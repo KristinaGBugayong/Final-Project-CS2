@@ -36,5 +36,9 @@ What kind of data will the user provide (if any)?
 Example: student ID, date range, product name
 Outputs
 
+- The user would have to provide the highest and lowest recorded rainfall in a specific area, along with the highest and lowest recorded daily temperature in that area and the possible weather forecast for the week. This will find the average rainfall and daily temperature in order to determine if agriculture and farming are suitable in the area, along with disaster preparation and readiness for heavy rainfall.
+
 What kind of results will your program display?
 Example: class averages, top products, weather summary
+
+- The program will display the weather summary, such as the average temperature and the average rainfall in the area in order to establish the risks and appropriate safety measures to be taken in the event of an extreme weather event. In addition, based on the weather summary, the program will also determine the appropriate type of urban planning or structures that will be constructed to better adapt to the weather in the area.
