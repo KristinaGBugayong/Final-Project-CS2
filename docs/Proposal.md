@@ -21,11 +21,11 @@ The Philippines is eerily vulnerable to climate change, experiencing 20 or so ty
 Your program must have at least 5 features (minimum).
 We have provided 2 starter ideas for each dataset — you must design at least 3 additional features.
 
-Feature 1: (Starter idea)
-Feature 2: (Starter idea)
-Feature 3: (Your own idea)
-Feature 4: (Your own idea)
-Feature 5: (Your own idea)
+- Feature 1: (Find the day with the highest rainfall.)
+- Feature 2: (Compute the average daily temperature.)
+- Feature 3: (Analyze how wind speed varies with different weather statuses.)
+- Feature 4: (Find the day with the highest wind speed.)
+- Feature 5: (Determine the average wind speed for the week.)
 (You may add more features if you like.)
 
 ⌨️ Planned Inputs and Outputs
