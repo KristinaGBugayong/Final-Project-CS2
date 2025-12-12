@@ -177,3 +177,9 @@ WHILE choice != 7:
 END WHILE
 
 End Program
+
+
+![flowchart](https://github.com/user-attachments/assets/2318fa1e-ca27-4aa9-88bd-66c547384956)
+
+
+
